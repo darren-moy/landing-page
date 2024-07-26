@@ -1,0 +1,40 @@
+#about {
+    padding: 2rem;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.about-content {
+    display: flex;
+    align-items: center; /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
+    gap: 2rem; /* Add space between text and image */
+}
+
+.text-content {
+    max-width: 600px; /* Adjust the width as needed */
+    text-align: left; /* Align text to the left */
+}
+
+#about h2 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+#about p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin: 1rem 0;
+}
+
+#about .line {
+    width: 100%;
+    margin: 0.5rem auto;
+    border-bottom: 2px solid #333;
+}
+
+.snowboard {
+    width: 350px; /* Set a fixed width for the image */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 8px;
+}

@@ -1,0 +1,62 @@
+#experience {
+    padding: 2rem;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#experience h2 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+#experience .line {
+    width: 50%; /* Make the line span 50% */
+    margin: 0.5rem auto; /* Center the line */
+    border-bottom: 2px solid #333;
+}
+
+.experiences-container {
+    display: grid;
+    grid-template-columns: 1fr; /* Single column layout */
+    gap: 2rem; /* Add space between items */
+    justify-content: center; /* Center the grid items horizontally */
+    align-items: start; /* Align grid items to the start */
+    max-width: 800px; /* Constrain the width of the container */
+    margin: 0 auto; /* Center the container */
+}
+
+.experience-item {
+    display: flex;
+    align-items: center; /* Center items vertically */
+    justify-content: space-between; /* Add space between text and image */
+}
+
+.text-content {
+    text-align: left; /* Align text to the left */
+    margin-right: 2rem; /* Add space between text content and image */
+    flex: 1; /* Allow text content to take up available space */
+}
+
+#experience h3 {
+    font-size: 1.6rem;
+    margin-bottom: 0.1rem; /* Reduce the margin between title and company */
+}
+
+#experience h4 {
+    font-size: 1.2rem;
+    margin-top: 0.1rem; /* Reduce the margin between title and company */
+    margin-bottom: 0.5rem;
+    color: #555; /* Optional: different color for the company name */
+}
+
+#experience p {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.experience-img {
+    width: 130px; /* Set a fixed width for the image */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 8px;
+}
