@@ -15,7 +15,7 @@ const About = () => {
                     <div className='line'></div>
                     <p>
                         I'm a senior studying Computer Science at Hunter College. Outside of my studies, I enjoy snowboarding, playing volleyball, as well as body building.
-                        I am a Software Engineering Fellow at Headstarter and a Web Development Intern at I.T. Services LLC working on integrating A.I. into our application.
+                        I am a Software Engineering Fellow at Headstarter and a Software Engineering Intern at I.T. Services LLC working on integrating A.I. into our application.
                     </p>
                 </div>
             </div>

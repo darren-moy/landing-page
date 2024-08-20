@@ -3,7 +3,7 @@ import "./Skills.css";
 
 const Skills = () => {
     const skills = {
-        Frontend: ["Next.js", "React.js", "JavaScript", "HTML", "CSS"],
+        Frontend: ["Next.js", "React.js", "JavaScript", "HTML", "CSS", "Tailwind CSS"],
         Backend: ["Node.js", "Express.js", "Python", "Java", "C++"],
         Tools: ["Git", "GitHub", "Visual Studio Code"],
     };

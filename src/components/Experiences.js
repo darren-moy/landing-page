@@ -11,7 +11,7 @@ const Experiences = () => {
             link: "https://headstarter.co/",
         },
         {
-            title: "Web Development Intern",
+            title: "Software Engineering Intern",
             company: "I.T. Services LLC",
             description: "July 2024 - Present",
             imgSrc: `${process.env.PUBLIC_URL}/stemkasa.png`,
