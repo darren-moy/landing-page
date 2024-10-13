@@ -13,7 +13,7 @@ const projects = [
     {
         title: "Honeycomb",
         tech: "Node.js, Clerk, Stripe, Firebase, TailwindCSS",
-        description:"A SaaS product generating dynamic flashcards using Llama 3.1 LLM via Groq API, with integrated Stripe-based paywall and pricing plans, in collaboration with 2 Headstarter fellows.",
+        description:"A SaaS product generating dynamic flashcards using OpenAI 4o, with integrated Stripe-based paywall and pricing plans, in collaboration with 2 Headstarter fellows.",
         links: [
             { href: "https://github.com/ShohruzE/ai-flashcards", label: "GitHub" }
         ]

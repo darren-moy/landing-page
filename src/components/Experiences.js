@@ -6,14 +6,14 @@ const Experiences = () => {
         {
             title: "Software Engineering Fellow",
             company: "Headstarter",
-            description: "July 2024 - Present",
+            description: "July 2024 - August 2024",
             imgSrc: `${process.env.PUBLIC_URL}/headstarter.webp`,
             link: "https://headstarter.co/",
         },
         {
             title: "Software Engineering Intern",
             company: "I.T. Services LLC",
-            description: "July 2024 - Present",
+            description: "July 2024 - September 2024",
             imgSrc: `${process.env.PUBLIC_URL}/stemkasa.png`,
             link: "http://www.renafrique.com/LandingPage/",
         },
